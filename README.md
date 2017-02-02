@@ -1,18 +1,17 @@
 # Background
-[Open Data Day](http://opendataday.org/) is an annual celebration of open data. In 2017, it takes place on March 4, and on that occasion, a two-day do-a-thon all around research data will be organized [in London](https://www.nwspk.com/) and online on March 4-5.
+[Open Data Day](http://opendataday.org/) is an annual celebration of open data. In 2017, it takes place on March 4, and on that occasion, a two-day do-a-thon all around research data will be organized [in London](https://www.nwspk.com/) and online on March 4-5. This repo helps coordinate activities around that, and we will update it on a regular basis until and during the event and perhaps thereafter.
 
 # Specifics
-Description
 
-We invite you, whether you’re in London or afar, to a weekend of learning, making, and doing to advance Open Research Data. The event is hosted by SPARC and the NIH as part of an international celebration for Open Data Day.
+We invite you, whether you’re in London or afar, to a weekend of learning, making, and doing to advance Open Research Data. The event is hosted by [SPARC](https://sparcopen.org/) and the [NIH](https://nih.gov/) as part of an international celebration for Open Data Day.
 
-At its heart, Open Research Data is about making it easy for you and others to see, use and share data (to find out more, read this). This simple idea is powering some of the largest breakthroughs of our time and our event aims to celebrate and accelerate the power of Open Research Data.
+At its heart, Open Research Data is about making it easy for you and others to see, use and share data (to find out more, read [this](https://sparcopen.org/open-data/)). This simple idea is powering some of the largest [breakthroughs](https://sparcopen.org/impact-story/human-genome-project/) of our time, and our event aims to celebrate and accelerate the power of Open Research Data.
 
 We invite you, whether new or old to Open Research Data, scholar or citizen, in London or across the globe, to join us for this weekend to make, hack, contribute, try, teach, design, test, learn (or just about anything!) in the name of Open Research Data.
 
 In London, we’ll provide fast wifi, power (both for your laptops and your bodies) and a program that will spark ideas and collaborations for the weekend.
 
-If you can’t make it to London, join us online from wherever you are. We’ll be documenting and discussing ideas before, during, and after the event for remote participants. As a remote participant, expect to be able to pitch and discuss your ideas for the weekend with all attendees!
+If you can’t make it to London, join us online from wherever you are. We’ll be using this GitHub repo for documenting and discussing ideas before, during, and after the event, both for remote participants and everyone else who is interested. As a remote participant, expect to be able to pitch and discuss your ideas for the weekend with all attendees!
 
 # Program
 
@@ -60,6 +59,8 @@ We're organizing ideas & more details on the program here. It’s up for you to 
 * Prototype a tool to make it easy for researchers to share/discover/consume comprehensive, open and FAIR data
 * Devise a mechanism to incentivise deposition, review and reuse of datasets
 
+# Location
+* [Newspeak House](nwspk.com), [133 Bethnal Green Rd, London E2 7DG, UK](http://www.openstreetmap.org/#map=17/51.52520/-0.07150), [@nwspk](https://twitter.com/nwspk) 
 
 # Registration
 
@@ -67,8 +68,7 @@ To register for the event, please go to its [EventBrite page](https://www.eventb
 
 # Contact
 
-How can I contact the organizer with any questions?
+* Email Joe [at] righttoresearch [dot] org or tweet [@McArthur_joe](https://twitter.com/Mcarthur_Joe) or [@EvoMRI](https://twitter.com/EvomRI).
 
-Email Joe@righttoresearch.org or tweet @mcarthur_joe or @EvoMRI
-
-We will update this repo on a regular basis until and during the event and possibly thereafter.
+# Hashtag
+* [#odd4r](https://twitter.com/hashtag/odd4r) (Open Data Day for Research)
