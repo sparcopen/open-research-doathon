@@ -39,7 +39,7 @@ Each day will run 9am - 6pm. We'll provide breakfast, lunch, and snacks (includi
 
 # Ideas for the Weekend
 
-We're organizing ideas via this repo's [issue tracker](https://github.com/sparcopen/Open-Research-doathon/issues). It's up for you to decide how you spend the weekend, but if you're short on ideas, here are some of ours:
+We're organizing ideas via this repo's [issue tracker](https://github.com/sparcopen/open-research-doathon/issues). It's up for you to decide how you spend the weekend, but if you're short on ideas, here are some of ours:
 * Trying to find / reuse an open data set
 * Building engaging (and open) visualizations of open research data
 * Adding some field-specific examples to Data Carpentry lessons
@@ -49,13 +49,13 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 * Participating in research-related activities that others are planning for Open Data Day
 * A data-centric walk around the neighbourhood
 * Improving documentation for any of the above
-* Adding a “research data” section to the Open Data Handbook
+* Adding a “research data” section to the [Open Data Handbook](http://opendatahandbook.org/)
 * Improving Wikipedia pages around or with open research data
 * Writing data management plans
 * Writing data-centric grant proposals
 * Make your own data FAIR
-* Test out reproducible computational tools such as Binder, R-Shiny, CodeOcean [we can supply a list of resources]
-* Prototype a tool to leverage the open datasets in eLife or in repositories (Zenodo, Dataverse, etc)
+* Test out reproducible computational tools such as [Binder](http://mybinder.org/), [R-Shiny](https://shiny.rstudio.com/), [CodeOcean](https://codeocean.com/) [we can supply a list of resources]
+* Prototype a tool to leverage the open datasets in eLife or in repositories ([Zenodo](https://zenodo.org/), [Dataverse](http://dataverse.org/), etc)
 * Prototype a tool to make it easy for researchers to share/discover/consume comprehensive, open and FAIR data
 * Devise a mechanism to incentivise deposition, review and reuse of datasets
 
@@ -68,7 +68,7 @@ To register for the event, please go to its [EventBrite page](https://www.eventb
 
 # Contact
 
-* Email Joe [at] righttoresearch [dot] org or tweet [@McArthur_joe](https://twitter.com/Mcarthur_Joe) or [@EvoMRI](https://twitter.com/EvomRI).
+* Email Joe [at] righttoresearch [dot] org or tweet [@McArthur_Joe](https://twitter.com/McArthur_Joe) or [@EvoMRI](https://twitter.com/EvoMRI).
 
 # Hashtag
 * [#odd4r](https://twitter.com/hashtag/odd4r) (Open Data Day for Research)
