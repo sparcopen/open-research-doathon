@@ -3,19 +3,19 @@
 
 # Specifics
 
-We invite you, whether you’re in London or afar, to a weekend of learning, making, and doing to advance Open Research Data. The event is hosted by [SPARC](https://sparcopen.org/) and the [NIH](https://nih.gov/) as part of an international celebration for Open Data Day.
+We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance Open Research Data. The event is hosted by [SPARC](https://sparcopen.org/) and the [NIH](https://nih.gov/) as part of an international celebration for Open Data Day.
 
 At its heart, Open Research Data is about making it easy for you and others to see, use and share data (to find out more, read [this](https://sparcopen.org/open-data/)). This simple idea is powering some of the largest [breakthroughs](https://sparcopen.org/impact-story/human-genome-project/) of our time, and our event aims to celebrate and accelerate the power of Open Research Data.
 
 We invite you, whether new or old to Open Research Data, scholar or citizen, in London or across the globe, to join us for this weekend to make, hack, contribute, try, teach, design, test, learn (or just about anything!) in the name of Open Research Data.
 
-In London, we’ll provide fast wifi, power (both for your laptops and your bodies) and a program that will spark ideas and collaborations for the weekend.
+In London, we'll provide fast wifi, power (both for your laptops and your bodies) and a program that will spark ideas and collaborations for the weekend.
 
-If you can’t make it to London, join us online from wherever you are. We’ll be using this GitHub repo for documenting and discussing ideas before, during, and after the event, both for remote participants and everyone else who is interested. As a remote participant, expect to be able to pitch and discuss your ideas for the weekend with all attendees!
+If you can't make it to London, join us online from wherever you are. We'll be using this GitHub repo for documenting and discussing ideas before, during, and after the event, both for remote participants and everyone else who is interested. As a remote participant, expect to be able to pitch and discuss your ideas for the weekend with all attendees!
 
 # Program
 
-Each day will run 9am - 6pm. We’ll provide breakfast, lunch, and snacks (including coffee, of course) with informal dinner & drinks each evening. The program is designed to be lightweight and flexible to allow the maximum time for doing.
+Each day will run 9am - 6pm. We'll provide breakfast, lunch, and snacks (including coffee, of course) with informal dinner & drinks each evening. The program is designed to be lightweight and flexible to allow the maximum time for doing.
 
 ## Day one
 
@@ -39,7 +39,7 @@ Each day will run 9am - 6pm. We’ll provide breakfast, lunch, and snacks (inclu
 
 # Ideas for the Weekend
 
-We're organizing ideas & more details on the program here. It’s up for you to decide how you spend the weekend, but if you’re short on ideas, here are some of ours:
+We're organizing ideas via this repo's [issue tracker](https://github.com/sparcopen/Open-Research-doathon/issues). It's up for you to decide how you spend the weekend, but if you're short on ideas, here are some of ours:
 * Trying to find / reuse an open data set
 * Building engaging (and open) visualizations of open research data
 * Adding some field-specific examples to Data Carpentry lessons
