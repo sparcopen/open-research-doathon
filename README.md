@@ -75,3 +75,8 @@ To register for the event, please go to its [EventBrite page](https://www.eventb
 # Hashtag
 
 * [#odd4r](https://twitter.com/hashtag/odd4r) (Open Data Day for Research)
+
+# See also
+
+* [Overview of 2017 Open Data Day events](http://wiki.opendataday.org/2017/City_Events)
+* [Brainhack Global 2017](http://events.brainhack.org/global2017/)
