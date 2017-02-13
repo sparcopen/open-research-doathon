@@ -28,25 +28,25 @@ Each day will run 9am - 6pm. We'll provide breakfast, lunch, and snacks (includi
 
 9-10 am: Breakfast
 
-10-12 am: Introductions & opening / pitches
+10-12 am: Introductions & opening / [idea](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) pitches
 
 12-1 pm: Lunch
 
-1-6pm: Working with occasional lightning talks
+1-6pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)
 
 ## Day two
 
 9-10 am: Breakfast
 
-10-12 am: Working with occasional lightning talks
+10-12 am: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)
 
 12-1 pm: Lunch
 
-1-6 pm: Working with occasional lightning talks
+1-6 pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)
 
 # Ideas for the Weekend
 
-We're organizing ideas via this repo's [issue tracker](https://github.com/sparcopen/open-research-doathon/issues). It's up for you to decide how you spend the weekend, but if you're short on ideas, here are some of ours:
+We're organizing ideas via this repo's [issue tracker](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea). It's up for you to decide how you spend the weekend, but if you're short on ideas, here are some of ours:
 * Trying to find / reuse an open data set
 * Building engaging (and open) visualizations of open research data
 * Adding some field-specific examples to Data Carpentry lessons
