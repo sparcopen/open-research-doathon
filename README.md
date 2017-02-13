@@ -29,6 +29,8 @@ There are also [light green](https://github.com/sparcopen/open-research-doathon/
 
 Each day will run 9am - 6pm. We'll provide breakfast, lunch, and snacks (including coffee, of course) with informal dinner & drinks each evening. The program is designed to be lightweight and flexible to allow the maximum time for doing.
 
+Virtual participants are encouraged to peak in on our activities any time, but we recommend defaulting to something like 9am - 6pm in their respective time zones.
+
 ## Day one
 
 9-10 am: Breakfast
