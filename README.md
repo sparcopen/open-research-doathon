@@ -1,3 +1,7 @@
+# Registration
+
+To register for the event, please go to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).
+
 # Background
 
 [Open Data Day](http://opendataday.org/) is an annual celebration of open data. In 2017, it takes place on March 4, and on that occasion, a two-day do-a-thon all around research data will be organized [in London](https://www.nwspk.com/) and online on March 4-5. This repo helps coordinate activities around that, and we will update it on a regular basis until and during the event and perhaps thereafter.
@@ -63,10 +67,6 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 # Location
 
 * [Newspeak House](nwspk.com), [133 Bethnal Green Rd, London E2 7DG, UK](http://www.openstreetmap.org/#map=17/51.52520/-0.07150), [@nwspk](https://twitter.com/nwspk)
-
-# Registration
-
-To register for the event, please go to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).
 
 # Contact
 
