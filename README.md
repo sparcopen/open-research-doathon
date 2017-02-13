@@ -18,7 +18,7 @@ In London, we'll provide fast wifi, power (both for your laptops and your bodies
 
 If you can't make it to London, join us online from wherever you are. We'll be using this GitHub repo for documenting and discussing ideas before, during, and after the event, both for remote participants and everyone else who is interested. As a remote participant, expect to be able to pitch and discuss your ideas for the weekend with all attendees.
 
-Check out the [yellow labels](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) for hacky ideas to work on! There are also [green](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Ameta) labels that we're using to organize the event. Feel free to have a go at any of them.
+Check out the [yellow labels](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) for hacky ideas to work on! There are also [green](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Ameta) labels that we're using to organize the event. Feel free to have a go at any of them. Finally, we'll be having lightning talks, which can be tracked via the [red](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks) labels.
 
 # Program
 
