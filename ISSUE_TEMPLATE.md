@@ -1,7 +1,7 @@
-[//]: # "Testing things with guidance from https://help.github.com/articles/creating-an-issue-template-for-your-repository/ and http://stackoverflow.com/a/20885980/446855 "
+[//]: # "We're still fiddling with a useful standard way of formatting issue submissions (as per issue 2), so bear with us and expect things to change here soon."
 
 # Guidelines for contributing
 
-# [] Idea 
+## Post something useful
 
-# [] Lightning talk
+## Add the appropriate label (e.g. idea/ lightning talk) to your post
