@@ -24,6 +24,9 @@ To present the ideas and to inform about other topics of interest, we'll be havi
 
 There are also [light green](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Ameta) labels that we're using to organize the event. Your participation is welcome here too.
 
+# Contributing
+
+For guidelines on how to contribute to this project, see [CONTRIBUTING.md](https://github.com/sparcopen/open-research-doathon/blob/master/CONTRIBUTING.md).
 
 # Program
 
