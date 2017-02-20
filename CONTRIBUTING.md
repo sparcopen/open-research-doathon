@@ -2,7 +2,7 @@
 
 Please contribute to this repository if any of the following is true:
 - You have expertise in community development, communication, or education
-- You want open source communities to be more collaborative and inclusive
+- You want open research communities to be more collaborative and inclusive
 - You want to help lower the burden to first time contributors
 
 # How to contribute
@@ -14,7 +14,7 @@ Prerequisites:
 
 In particular, this community seeks the following types of contributions:
 
-- **Ideas**: participate in an issue thread or start your own to have your voice
+- **Ideas**: participate in an [issue thread](https://github.com/sparcopen/Open-Research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) or start your own to have your voice
 heard.
 - **Resources**: submit a pull request to add to RESOURCES.md with links to related content.
 - **Outline sections**: help us ensure that this repository is comprehensive. if
@@ -33,7 +33,7 @@ We are committed to providing a friendly, safe and welcoming environment for
 all, regardless of gender, sexual orientation, disability, ethnicity, religion,
 or similar personal characteristic.
 
-On IRC, please avoid using overtly sexual nicknames or other nicknames that
+When participating online, please avoid using overtly sexual nicknames or other nicknames that
 might detract from a friendly, safe and welcoming environment for all.
 
 Please be kind and courteous. There's no need to be mean or rude.
@@ -65,14 +65,12 @@ behaviour is not welcome.
 
 # Communication
 
-There is an IRC channel on irc.freenode.net, channel `#CONTRIBUTING.md`. You're
-welcome to drop in and ask questions, discuss bugs and such. The channel is
-not currently logged.
+[GitHub issues](https://github.com/sparcopen/open-research-doathon/issues) are the primary way for communicating about specific aspects of this project.
 
-GitHub issues are the primary way for communicating about specific proposed
-changes to this project.
+Besides GitHub, we will be using the Twitter hashtag [#odd4r](https://twitter.com/search?vertical=default&q=odd4r). 
 
-In both contexts, please follow the conduct guidelines above. Language issues
+In both contexts, you're welcome to drop in and ask questions, discuss bugs and such. 
+We expect you to follow the conduct guidelines above. Language issues
 are often contentious and we'd like to keep discussion brief, civil and focused
 on what we're actually doing, not wandering off into too much imaginary stuff.
 
