@@ -85,6 +85,10 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 
 * [#odd4r](https://twitter.com/hashtag/odd4r) (Open Data Day for Research)
 
+# Licensing
+
+* Contributions to the event are expected to be as openly licensed as possible, so as to encourage reuse. For details, see [LICENSE.md](https://github.com/sparcopen/open-research-doathon/blob/master/LICENSE.md).
+
 # See also
 
 * [Overview of 2017 Open Data Day events](http://wiki.opendataday.org/2017/City_Events)
