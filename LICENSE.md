@@ -1,6 +1,6 @@
 # About
 
-This file documents the use and reuse rights of outputs produced in the framework of this event.
+This file documents the use and reuse rights of outputs produced in the framework of this event. To document problems related to licensing of such outputs or of external resources (particularly when they block or limit reuse), we encourage participants to [open an issue](https://github.com/sparcopen/open-research-doathon/issues/new) for that and to use the [licensing](https://github.com/sparcopen/open-research-doathon/labels/licensing) label, so that we can track such cases.
 
 ## Text
 
@@ -16,9 +16,9 @@ Contributions to software development projects made in the framework of the even
 
 ## Data
 
-Data generated in the framework of the event is expected to be made available under CC0, and exceptions to be documented.
+Data generated in the framework of the event is expected to be made available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) by default, and exceptions to this are to be documented by opening an issue.
 
-Contributions to databases made in the framework of the event will be available under the terms defined by the respective databases. If a database's terms are not open, we encourage participants to [open an issue](https://github.com/sparcopen/open-research-doathon/issues/new) for that, so that we can track such cases.
+Contributions to databases made in the framework of the event will be available under the terms defined by the respective databases. If a database's terms are not open, we encourage participants to open an issue for that as well.
 
 # MIT License
 
