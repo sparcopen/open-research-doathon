@@ -35,7 +35,7 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 
 9-10 am: Breakfast
 
-10-12 am: Introductions & opening / [idea](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) pitches
+10-12 am: Introductions & opening / [idea pitches](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3Alightning-talks%20label%3Aidea)
 
 12-1 pm: Lunch
 
