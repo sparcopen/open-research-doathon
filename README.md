@@ -94,5 +94,6 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 
 # See also
 
-* [Overview of 2017 Open Data Day events](http://wiki.opendataday.org/2017/City_Events)
-* [Brainhack Global 2017](http://events.brainhack.org/global2017/)
+* [Overview of 2017 Open Data Day events](http://wiki.opendataday.org/2017/City_Events) &mdash; around the globe around March 4
+* [Science Together](http://sciencetogether.online/) &mdash; London, March 2-3
+* [Brainhack Global 2017](http://events.brainhack.org/global2017/) &mdash; around the globe, March 2-5
