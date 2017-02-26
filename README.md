@@ -1,6 +1,10 @@
+# Summary
+
+We are trying to build and do stuff around open research data on March 4-5, both in London and online, and you are welcome to join in.
+
 # Registration
 
-To register for the event, please go to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).
+To register for the event to participate on-site or virtually, please go to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).
 
 # Background
 
