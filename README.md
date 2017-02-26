@@ -37,25 +37,13 @@ Each day will run 9am - 6pm. We'll provide breakfast, lunch, and snacks (includi
 
 Virtual participants are encouraged to peak in on our activities any time, but we recommend defaulting to something like 9am - 6pm in their respective time zones.
 
-## Day one
 
-9-10 am: Breakfast
-
-10-12 am: Introductions & opening / [idea pitches](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3Alightning-talks%20label%3Aidea)
-
-12-1 pm: Lunch
-
-1-6pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)
-
-## Day two
-
-9-10 am: Breakfast
-
-10-12 am: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)
-
-12-1 pm: Lunch
-
-1-6 pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)
+| March 4 | March 5 |
+| :--- | :--- |
+| 9-10 am: Breakfast | 9-10 am: Breakfast |
+| 10-12 am: Introductions & opening / [idea pitches](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3Alightning-talks%20label%3Aidea) | 10-12 am: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks) |
+| 12-1 pm: Lunch | 12-1 pm: Lunch |
+| 1-6pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)| 1-6 pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks) |
 
 # Ideas for the Weekend
 
