@@ -102,4 +102,6 @@ Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wik
 * [Open Data Hack](https://ecmwf-opendatahack.devpost.com/) &mdash; Reading, March 4-5, on weather and climate data
 * Some past events in a similar spirit:
   - [Hack4ac (July 2013)](http://hack4ac.com/)
+  - [Biodiversity data enrichment hackathon (2014)](http://wiki.pro-ibiosphere.eu/wiki/Data_enrichment_hackathon,_March_17-21_2014)
+  - [NCBI hackathons (since 2015)](https://github.com/NCBI-Hackathons)
   - [Mozilla Global Sprint; 2016 edition](https://github.com/mozillascience/global-sprint-2016)
