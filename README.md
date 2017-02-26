@@ -1,11 +1,11 @@
-![Sonar tracking of tungsten ball underneath research vessel for calibration](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_%2816824332958%29.jpg)
+[![Sonar tracking of tungsten ball underneath research vessel for calibration](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_%2816824332958%29.jpg)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg)
 
 # In brief
 
 | What is this about? | Getting started |
 | --- | --- |
 | We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance [Open Research Data](https://sparcopen.org/open-data/).   | If you like what you see here, please register for the event as an on-site or virtual participant by going to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).  |
-| ![Big Ben in London](https://images.unsplash.com/photo-1485756884019-5519df92d868?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)  | ![Milky Way through lens filter](https://images.unsplash.com/photo-1479867250541-fb75f7d85057?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=) |
+| [![Big Ben in London](https://images.unsplash.com/photo-1485756884019-5519df92d868?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)](https://unsplash.com/photos/oFnzIf47j8I)  | [![Milky Way through lens filter](https://images.unsplash.com/photo-1479867250541-fb75f7d85057?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)](https://unsplash.com/photos/c1bshOfP_IA) |
 
 # Background
 
@@ -15,7 +15,7 @@
 
 |  Aim: hands-on with research data | Here is the plan |
 | --- | --- |
-|  ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | As part of the celebrations for Open Data Day 2017, a two-day do-a-thon all around [open research data](https://sparcopen.org/open-data/) will be organized [in London](https://www.nwspk.com/) and online on March 4-5. The event is hosted by [SPARC](https://sparcopen.org/) and the [NIH](https://nih.gov/). This repo helps coordinate activities around that, and we will update it on a regular basis until and during the event and perhaps thereafter. <br><br> At its heart, Open Research Data is about making it easy for you and others to see, use and share data pertaining to past, ongoing or possibly even future research. This simple idea is powering some of the largest [breakthroughs](https://sparcopen.org/impact-story/human-genome-project/) of our time, and our event aims to celebrate and accelerate the power of Open Research Data. <br><br>  We invite you, whether new or old to Open Research Data, scholar or citizen, to join us for this weekend to make, hack, contribute, try, teach, design, test, learn (or just about anything!) in the name of Open Research Data. <br><br> In London, we'll provide fast wifi, power (both for your laptops and your bodies) and a program that will spark ideas and collaborations for the weekend. <br><br> If you can't make it to London, join us online from wherever you are.  |
+|  [![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg)](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg) | As part of the celebrations for Open Data Day 2017, a two-day do-a-thon all around [open research data](https://sparcopen.org/open-data/) will be organized [in London](https://www.nwspk.com/) and online on March 4-5. The event is hosted by [SPARC](https://sparcopen.org/) and the [NIH](https://nih.gov/). This repo helps coordinate activities around that, and we will update it on a regular basis until and during the event and perhaps thereafter. <br><br> At its heart, Open Research Data is about making it easy for you and others to see, use and share data pertaining to past, ongoing or possibly even future research. This simple idea is powering some of the largest [breakthroughs](https://sparcopen.org/impact-story/human-genome-project/) of our time, and our event aims to celebrate and accelerate the power of Open Research Data. <br><br>  We invite you, whether new or old to Open Research Data, scholar or citizen, to join us for this weekend to make, hack, contribute, try, teach, design, test, learn (or just about anything!) in the name of Open Research Data. <br><br> In London, we'll provide fast wifi, power (both for your laptops and your bodies) and a program that will spark ideas and collaborations for the weekend. <br><br> If you can't make it to London, join us online from wherever you are.  |
 
 # How it works
 
@@ -67,7 +67,7 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 * Prototype a tool to make it easy for researchers to share/discover/consume comprehensive, open and FAIR data
 * Devise a mechanism to incentivise deposition, review and reuse of datasets
 
-![An image](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)
+[![An image](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)](https://commons.wikimedia.org/wiki/File:Dews...(byNithyaRamanujam).jpg)
 Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wiki/Transparency_and_translucency) and [light scattering](https://en.wikipedia.org/wiki/Light_scattering), [cohesion](https://en.wikipedia.org/wiki/Cohesion_(chemistry)) and [adhesion](https://en.wikipedia.org/wiki/Adhesion), [surface tension](https://en.wikipedia.org/wiki/Surface_tension), [contact angles](https://en.wikipedia.org/wiki/Contact_angle) and [hydrophobicity](https://en.wikipedia.org/wiki/Hydrophobe).
 
 # Location
