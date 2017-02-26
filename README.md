@@ -2,9 +2,9 @@
 
 # In brief
 
-| Summary | Registration |
+| What is this about? | Getting started |
 | --- | --- |
-| We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance Open Research Data.   | You are welcome to join in. To register for the event to participate on-site or virtually, please go to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).  |
+| We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance Open Research Data.   | If you like what you see here, please register for the event as an on-site or virtual participant by going to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).  |
 | ![Big Ben in London](https://images.unsplash.com/photo-1485756884019-5519df92d868?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)  | ![Milky Way through lens filter](https://images.unsplash.com/photo-1479867250541-fb75f7d85057?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=) |
 
 # Background
@@ -104,7 +104,7 @@ Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wik
 * Big Ben: [Pedro Carballo](https://unsplash.com/photos/oFnzIf47j8I) (CC0)
 * Milky Way: [Nathan Anderson](https://unsplash.com/photos/c1bshOfP_IA) (CC0)
 * Sandbox: [JkoLd19d](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg) (CC0)
-* Dew drops: [Nithya Ramanujam](https://commons.wikimedia.org/wiki/File:Dews...(byNithyaRamanujam).jpg)
+* Dew drops: [Nithya Ramanujam](https://commons.wikimedia.org/wiki/File:Dews...(byNithyaRamanujam).jpg) (CC0)
 
 # See also
 
