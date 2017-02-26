@@ -4,7 +4,7 @@
 
 | What is this about? | Getting started |
 | --- | --- |
-| We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance Open Research Data.   | If you like what you see here, please register for the event as an on-site or virtual participant by going to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).  |
+| We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance [Open Research Data](https://sparcopen.org/open-data/).   | If you like what you see here, please register for the event as an on-site or virtual participant by going to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).  |
 | ![Big Ben in London](https://images.unsplash.com/photo-1485756884019-5519df92d868?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)  | ![Milky Way through lens filter](https://images.unsplash.com/photo-1479867250541-fb75f7d85057?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=) |
 
 # Background
