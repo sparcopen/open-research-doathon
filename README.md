@@ -1,26 +1,19 @@
-# Summary
+![Sonar tracking of tungsten ball underneath research vessel for calibration](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_%2816824332958%29.jpg)
 
-We are trying to build and do stuff around open research data on March 4-5, both in London and online, and this page details how. You are welcome to join in.
+# In brief
 
-# Registration
-
-To register for the event to participate on-site or virtually, please go to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).
+| Summary | Registration |
+| --- | --- |
+| We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance Open Research Data.   | You are welcome to join in. To register for the event to participate on-site or virtually, please go to its [EventBrite page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203).  |
+| ![Big Ben in London](https://images.unsplash.com/photo-1485756884019-5519df92d868?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)  | ![Milky Way through lens filter](https://images.unsplash.com/photo-1479867250541-fb75f7d85057?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=) |
 
 # Background
 
-[Open Data Day](http://opendataday.org/) is an annual celebration of open data. In 2017, it takes place on March 4, and on that occasion, a two-day do-a-thon all around research data will be organized [in London](https://www.nwspk.com/) and online on March 4-5. This repo helps coordinate activities around that, and we will update it on a regular basis until and during the event and perhaps thereafter.
+[Open Data Day](http://opendataday.org/) is an annual celebration of open data. In 2017, it takes place on March 4, and on that occasion, [lots of events](http://opendataday.org/#map) are taking place around the world, focusing on specific kinds or aspects of open data. 
 
-# Specifics
-
-We invite you, whether you're in London or afar, to a weekend of learning, making, and doing to advance Open Research Data. The event is hosted by [SPARC](https://sparcopen.org/) and the [NIH](https://nih.gov/) as part of an international celebration for Open Data Day.
-
-At its heart, Open Research Data is about making it easy for you and others to see, use and share data (to find out more, read [this](https://sparcopen.org/open-data/)). This simple idea is powering some of the largest [breakthroughs](https://sparcopen.org/impact-story/human-genome-project/) of our time, and our event aims to celebrate and accelerate the power of Open Research Data.
-
-We invite you, whether new or old to Open Research Data, scholar or citizen, in London or across the globe, to join us for this weekend to make, hack, contribute, try, teach, design, test, learn (or just about anything!) in the name of Open Research Data.
-
-In London, we'll provide fast wifi, power (both for your laptops and your bodies) and a program that will spark ideas and collaborations for the weekend.
-
-If you can't make it to London, join us online from wherever you are. 
+|  Aim: hands-on with research data | Specifics |
+| --- | --- |
+|  ![Sandbox](https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandbox_with_interactive_projection_at_31c3.jpg) | As part of an international celebration for Open Data Day, a two-day do-a-thon all around research data will be organized [in London](https://www.nwspk.com/) and online on March 4-5. The event is hosted by [SPARC](https://sparcopen.org/) and the [NIH](https://nih.gov/). This repo helps coordinate activities around that, and we will update it on a regular basis until and during the event and perhaps thereafter. <br><br> At its heart, Open Research Data is about making it easy for you and others to see, use and share data (to find out more, read [this](https://sparcopen.org/open-data/)). This simple idea is powering some of the largest [breakthroughs](https://sparcopen.org/impact-story/human-genome-project/) of our time, and our event aims to celebrate and accelerate the power of Open Research Data. <br><br>  We invite you, whether new or old to Open Research Data, scholar or citizen, in London or across the globe, to join us for this weekend to make, hack, contribute, try, teach, design, test, learn (or just about anything!) in the name of Open Research Data. <br> <br> In London, we'll provide fast wifi, power (both for your laptops and your bodies) and a program that will spark ideas and collaborations for the weekend. <br><br> If you can't make it to London, join us online from wherever you are.  |
 
 # How it works
 
@@ -99,6 +92,13 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 # Licensing
 
 * Contributions to the event are expected to be as openly licensed as possible, so as to encourage reuse. For details, see [LICENSE.md](https://github.com/sparcopen/open-research-doathon/blob/master/LICENSE.md).
+
+# Image credits
+
+* Sonar: [National Oceanic and Atmospheric Administration (NOAA)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg) (Public Domain)
+* London: [Pedro Carballo](https://unsplash.com/photos/oFnzIf47j8I) (CC0)
+* Milky Way: [Nathan Anderson](https://unsplash.com/photos/c1bshOfP_IA) (CC0)
+* Sandbox: [JkoLd19d](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg) (CC0)
 
 # See also
 
