@@ -99,9 +99,10 @@ Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wik
 # See also
 
 * [Overview of 2017 Open Data Day events](http://opendataday.org/#map) &mdash; around the globe around March 4, on any kind or aspect of open data
-* [Science Together](http://sciencetogether.online/) &mdash; London, March 2-3, on tools for scientific collaboration
-* [Brainhack Global 2017](http://events.brainhack.org/global2017/) &mdash; around the globe, March 2-5, on neuroscience data
-* [Open Data Hack](https://ecmwf-opendatahack.devpost.com/) &mdash; Reading, March 4-5, on weather and climate data
+* Some related events with a research focus
+  - [Science Together](http://sciencetogether.online/) &mdash; London, March 2-3, on tools for scientific collaboration
+  - [Brainhack Global 2017](http://events.brainhack.org/global2017/) &mdash; around the globe, March 2-5, on neuroscience data
+  - [Open Data Hack](https://ecmwf-opendatahack.devpost.com/) &mdash; Reading, March 4-5, on weather and climate data
 * Some past events in a similar spirit:
   - [Hack4ac (July 2013)](http://hack4ac.com/)
   - [Biodiversity data enrichment hackathon (2014)](http://wiki.pro-ibiosphere.eu/wiki/Data_enrichment_hackathon,_March_17-21_2014)
