@@ -78,9 +78,11 @@ Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wik
 
 * Email Joe [at] righttoresearch [dot] org or tweet [@McArthur_Joe](https://twitter.com/McArthur_Joe) or [@EvoMRI](https://twitter.com/EvoMRI).
 
-# Hashtag
+# Hashtags
 
-* [#odd4r](https://twitter.com/hashtag/odd4r) (Open Data Day for Research)
+* We will be primarily using [#odd4r](https://twitter.com/search?f=tweets&vertical=default&q=((%22do-a-thon%22%20OR%20doathon)%20AND%20data)%20OR%20odd4r) (Open Data Day for Research)
+* There are a number of [other hashtags specific to opendataday or some related events](https://twitter.com/search?f=tweets&vertical=default&q=opendataday%20OR%20%22open%20data%20day%22%20OR%20((opendata%20OR%20openscience)%20AND%20(day%20OR%20today%20OR%20event))%20OR%20opendatahack%20OR%20brainhack%20OR%20scitog%20OR%20hack4ac)
+* There are the generic hashtags for [#opendata, #openresearch and #openscience](https://twitter.com/search?f=tweets&vertical=default&q=opendata%20OR%20openresearch%20OR%20openscience%20OR%20%22open%20data%22%20OR%20%22open%20research%22%20OR%20%22open%20science%22%20OR%20openscienceprize)
 
 # Licensing
 
