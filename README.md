@@ -97,5 +97,6 @@ Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wik
 # See also
 
 * [Overview of 2017 Open Data Day events](http://wiki.opendataday.org/2017/City_Events) &mdash; around the globe around March 4
-* [Science Together](http://sciencetogether.online/) &mdash; London, March 2-3
+* [Science Together](http://sciencetogether.online/) &mdash; London, March 2-3, around tools for scientific collaboration
 * [Brainhack Global 2017](http://events.brainhack.org/global2017/) &mdash; around the globe, March 2-5
+* [Open Data Hack](https://ecmwf-opendatahack.devpost.com/) &mdash; reading, March 4-5, around weather and climate data
