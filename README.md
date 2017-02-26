@@ -79,6 +79,9 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 * Prototype a tool to make it easy for researchers to share/discover/consume comprehensive, open and FAIR data
 * Devise a mechanism to incentivise deposition, review and reuse of datasets
 
+![An image](https://upload.wikimedia.org/wikipedia/commons/4/40/Dews...%28byNithyaRamanujam%29.jpg)
+Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wiki/Transparency_and_translucency) and [light scattering](https://en.wikipedia.org/wiki/Light_scattering), [cohesion](https://en.wikipedia.org/wiki/Cohesion_(chemistry)) and [adhesion](https://en.wikipedia.org/wiki/Adhesion), [surface tension](https://en.wikipedia.org/wiki/Surface_tension), [contact angles](https://en.wikipedia.org/wiki/Contact_angle) and [hydrophobicity](https://en.wikipedia.org/wiki/Hydrophobe).
+
 # Location
 
 * [Newspeak House](nwspk.com), [133 Bethnal Green Rd, London E2 7DG, UK](http://www.openstreetmap.org/#map=17/51.52520/-0.07150), [@nwspk](https://twitter.com/nwspk)
@@ -98,9 +101,10 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 # Image credits
 
 * Sonar: [National Oceanic and Atmospheric Administration (NOAA)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg) (Public Domain)
-* London: [Pedro Carballo](https://unsplash.com/photos/oFnzIf47j8I) (CC0)
+* Big Ben: [Pedro Carballo](https://unsplash.com/photos/oFnzIf47j8I) (CC0)
 * Milky Way: [Nathan Anderson](https://unsplash.com/photos/c1bshOfP_IA) (CC0)
 * Sandbox: [JkoLd19d](https://commons.wikimedia.org/wiki/File%3ASandbox_with_interactive_projection_at_31c3.jpg) (CC0)
+* Dew drops: [Nithya Ramanujam](https://commons.wikimedia.org/wiki/File:Dews...(byNithyaRamanujam).jpg)
 
 # See also
 
