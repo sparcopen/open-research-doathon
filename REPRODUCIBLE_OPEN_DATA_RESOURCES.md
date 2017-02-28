@@ -1,4 +1,3 @@
-
 Exploring reproducible research tools
 ======
 
