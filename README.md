@@ -102,6 +102,7 @@ Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wik
 * Some related events with a research focus
   - [Science Together](http://sciencetogether.online/) &mdash; London, March 2-3, on tools for scientific collaboration
   - [Brainhack Global 2017](http://events.brainhack.org/global2017/) &mdash; around the globe, March 2-5, on neuroscience data
+  - [Open Data Day Portland](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) &mdash; March 3-4, Portland, on biomedical data and backup efforts around governmental data
   - [Open Data Hack](https://ecmwf-opendatahack.devpost.com/) &mdash; Reading, March 4-5, on weather and climate data
   - [Docathon](https://bids.github.io/docathon/) &mdash; Berkeley, Seattle, New York City, March 6-10, on documenting open-source and open-science code and tools
 * Some past events in a similar spirit:
