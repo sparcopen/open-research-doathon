@@ -50,10 +50,6 @@ Learn more: https://github.com/airbnb/superset and
 https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5#.xm99tzjc4
 Try it out: http://airbnb.io/superset/installation.html
 
-**The Whole Tale**
-*"Whole Tale will enable researchers to examine, transform, and then seamlessly republish research data that was used in an article. As a result, these "living articles"enable new discovery by allowing researchers to construct representations and syntheses of data."*
-Whole Tale is in its early stages; would you be interested to contribute? Explore http://wholetale.org/ 
-
 ####Maintaining analysis scripts:
 Warning: codespeak alert. If you're new to this, ask!
 An essential part of ensuring your reproducible notebook persists is good dependency management. 
@@ -80,6 +76,9 @@ Try them out: https://nixos.org/nix/ and https://www.gnu.org/software/guix/
 + Is my reproducible artefact sustainable?
  + Will my visualisation/webapp/notebook persist or are there dependencies that are likely to deprecate?
  + Should I plan for continuous integration? If so, what burden will this place on resources?
++ Is my reproducible artefact fit for publishing AND for reproducibility?
+ + Can I create a snapshot to match the peer-reviewed version, for version of record, then freely build on that in a new version?
+ + Is my data auditable? Is there a trail of meaningful version history for someone else to validate?
 + Can I track how popular my reproducible artefact is?
 + Would I use this to communicate my own research?
 + Would I like to explore research in my field deeper using this kind of interactive tool?
