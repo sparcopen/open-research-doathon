@@ -63,7 +63,7 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 * Writing data management plans
 * Writing data-centric grant proposals
 * Make your own data FAIR
-* Test out reproducible computational tools such as [Binder](http://mybinder.org/), [R-Shiny](https://shiny.rstudio.com/), [CodeOcean](https://codeocean.com/) [we can supply a list of resources]
+* Test out reproducible computational tools such as [Binder](http://mybinder.org/), [R-Shiny](https://shiny.rstudio.com/), [CodeOcean](https://codeocean.com/) (see [this list of resources](https://github.com/sparcopen/open-research-doathon/blob/master/reproducible_open_data_resources.md))
 * Prototype a tool to leverage the open datasets in eLife or in repositories ([Zenodo](https://zenodo.org/), [Dataverse](http://dataverse.org/), etc)
 * Prototype a tool to make it easy for researchers to share/discover/consume comprehensive, open and FAIR data
 * Devise a mechanism to incentivise deposition, review and reuse of datasets
