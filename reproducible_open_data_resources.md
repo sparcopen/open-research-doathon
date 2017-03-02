@@ -5,11 +5,12 @@ Exploring reproducible research tools
 >The (*) ideas in the 'Ideas for the do-athon' list below are especially for you!
 > Or take your first steps into coding today: R might be a good place to start. [Note from Naomi - this is my very first Markdown document; if I can, you definitely can!]
 
-##**Tools to try**
+# Tools to try 
 
-**Binder**
-*"Have a repository full of Jupyter notebooks? With Binder, you can add a badge that opens those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere."*
-Supports: JuPyter notebooks; requires that your data and code are on Github
+## Binder
+
+* "Have a repository full of Jupyter notebooks? With Binder, you can add a badge that opens those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere."
++ Supports: JuPyter notebooks; requires that your data and code are on Github
 
 + Try it out: http://mybinder.org/
 + Background info and examples:
@@ -18,52 +19,62 @@ Supports: JuPyter notebooks; requires that your data and code are on Github
 + New to JuPyter notebooks? Learn more and make your own at http://jupyter.org/
 
 
-**R-Shiny**
-*"Turn your [R] analyses into interactive web applications. No HTML, CSS, or JavaScript knowledge required."*
-Supports: R
+## R-Shiny
+
+* "Turn your [R] analyses into interactive web applications. No HTML, CSS, or JavaScript knowledge required."
++ Supports: R
 
 + Try it out at https://shiny.rstudio.com/
 + Discover the Shiny cheatsheet at https://www.rstudio.com/resources/cheatsheets/ and tutorial at http://shiny.rstudio.com/tutorial/
 + Turn your Shiny into a web app with http://www.shinyapps.io/
 + Export your R script into a notebook using Knitr https://yihui.name/knitr/
 
-**Stencila**
-*A document and sheets editor to bridge the gap between coders and clickers*
-Note: it's in beta
-Learn more: https://stenci.la/
+## Stencila
 
-**CodeOcean**
-*"Code Ocean is a cloud-based executable research platform"*
-Note: it's in beta, and not open source (or free above threshold usage)
-Supports: C/C++, Fortran, Java, Julia, Lua, MATLAB, Octave, Perl, Python and R
-Learn more: https://codeocean.com/learn/
+* A document and sheets editor to bridge the gap between coders and clickers
++ Note: it's in beta
++ Learn more: https://stenci.la/
 
-**nteract**
-*"nteract is a desktop application that allows you to develop rich documents that contain prose, executable code (in almost any language!), and images"*
-Supports: multi-language, apparently [can you help fill this out?]
+## CodeOcean
+
+* "Code Ocean is a cloud-based executable research platform"
++ Note: it's in beta, and not open source (or free above threshold usage)
++ Supports: C/C++, Fortran, Java, Julia, Lua, MATLAB, Octave, Perl, Python and R
++ Learn more: https://codeocean.com/learn/
+
+## nteract
+
+* "nteract is a desktop application that allows you to develop rich documents that contain prose, executable code (in almost any language!), and images"
++ Supports: multi-language, apparently [can you help fill this out?]
 Try it out: https://nteract.io/
 
-**SuperSet**
-*SuperSet is a data analytics dashboard from Airbnb for Python users*
-Supports: Python
-Learn more: https://github.com/airbnb/superset and
+## SuperSet
+
+* SuperSet is a data analytics dashboard from Airbnb for Python users
++ Supports: Python
++ Learn more: https://github.com/airbnb/superset and
 https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5#.xm99tzjc4
 Try it out: http://airbnb.io/superset/installation.html
 
-####Maintaining analysis scripts:
+# Maintaining analysis scripts:
 Warning: codespeak alert. If you're new to this, ask!
 An essential part of ensuring your reproducible notebook persists is good dependency management. 
 
-**Packrat** is a dependency management tool for R that enables reproducibility of an R script
+## Packrat
++ a dependency management tool for R that enables reproducibility of an R script
 Try it out: https://rstudio.github.io/packrat/
 
-**pip + virtual env** are your friends for dependency management in Python
+## pip + virtual env
+
++ they are your friends for dependency management in Python
 Read more: https://tech.knewton.com/blog/2015/09/best-practices-for-python-dependency-management/
 
-**Nix** and **Guix** are package managers for Linux and other Unix programs
+## Nix and Guix
++ package managers for Linux and other Unix programs
 Try them out: https://nixos.org/nix/ and https://www.gnu.org/software/guix/ 
 
-##**Some points to consider**
+# Some points to consider
+
 + How easy is it to use?
 + What can I use it for?
 + Do I need to download anything?
@@ -85,7 +96,8 @@ Try them out: https://nixos.org/nix/ and https://www.gnu.org/software/guix/
 + What other features would I like to see?
 + Are there others ways to do this?
  
-##**Ideas for the do-athon**
+# Ideas for the do-athon
+
 + Write a workflow for a typical life sciences and biomedical researcher to make their data reproducible using these tools
 + Write a blogpost about how you found using these tools (see 'Some points to consider' above) - did you need any help to use them? If so, what did you learn and how?
 + Convert some of your own data into reproducible data. Can you share it with the world?
@@ -99,7 +111,7 @@ Try them out: https://nixos.org/nix/ and https://www.gnu.org/software/guix/
 
 (*) No coding skills required
 
-###**And once I've finished?**
+### And once I've finished?
 Please submit your feedback on these tools via the do-athon github, by tweeting a link to your doc using #odd4r @npscience, or by email to innovation@elifesciences.org
  
 
