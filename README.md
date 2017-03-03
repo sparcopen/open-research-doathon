@@ -46,6 +46,12 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 | 1-6pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks)| 1-6 pm: Working with occasional [lightning talks](https://github.com/sparcopen/open-research-doathon/labels/lightning-talks) |
 | 6-11pm: [hand off to SPARC Open Data event in DC](https://www.eventbrite.com/e/open-data-impact-an-afternoon-of-conversations-and-collaboration-tickets-323957325)
 
+# How to join remotely
+
+* Follow #odd4r and announce you'll be joining us!
+* Introduce yourself [here](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#heading=h.fz9shrgyu7o2) and read other's introductions.
+* Tell us what you're working on via Twitter & Github issues. 
+
 # Ideas for the Weekend
 
 We're organizing ideas via this repo's [issue tracker](https://github.com/sparcopen/open-research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3Aidea%20-label%3Ameta). It's up for you to decide how you spend the weekend, but if you're short on ideas, here are some of ours:
