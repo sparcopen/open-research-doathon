@@ -72,7 +72,7 @@ We're organizing ideas via this repo's [issue tracker](https://github.com/sparco
 Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wiki/Transparency_and_translucency) and [light scattering](https://en.wikipedia.org/wiki/Light_scattering), [cohesion](https://en.wikipedia.org/wiki/Cohesion_(chemistry)) and [adhesion](https://en.wikipedia.org/wiki/Adhesion), [surface tension](https://en.wikipedia.org/wiki/Surface_tension), [contact angles](https://en.wikipedia.org/wiki/Contact_angle) and [hydrophobicity](https://en.wikipedia.org/wiki/Hydrophobe).
 
 # Location
-
+[![Newspeak House in London](https://upload.wikimedia.org/wikipedia/commons/f/f5/Newspeak_House_in_London_20170303_093116.jpg)](https://commons.wikimedia.org/wiki/File:Newspeak_House_in_London_20170303_093116.jpg)
 * [Newspeak House](nwspk.com), [133 Bethnal Green Rd, London E2 7DG, UK](http://www.openstreetmap.org/#map=17/51.52520/-0.07150), [@nwspk](https://twitter.com/nwspk)
 
 # Contact
