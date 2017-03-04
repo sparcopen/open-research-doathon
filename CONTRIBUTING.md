@@ -16,7 +16,7 @@ In particular, this community seeks the following types of contributions:
 
 - **Ideas**: participate in an [issue thread](https://github.com/sparcopen/Open-Research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Aidea) or start your own to have your voice
 heard.
-- **Resources**: submit a pull request to add to RESOURCES.md with links to related content.
+- **Resources**: submit a pull request to add to [reproducible_open_data_resources.md](https://github.com/sparcopen/open-research-doathon/blob/master/reproducible_open_data_resources.md) with links to related content.
 - **Outline sections**: help us ensure that this repository is comprehensive. if
 there is a topic that is overlooked, please add it, even if it is just a stub
 in the form of a header and single sentence. Initially, most things fall into
