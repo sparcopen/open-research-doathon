@@ -22,7 +22,6 @@
 We'll be using this GitHub repository for documenting and discussing ideas before, during, and after the event, both for remote participants and everyone else who is interested. We also have [a Google doc](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#) to take notes collaboratively.  As a remote participant, expect to be able to pitch and discuss your ideas for the weekend with all attendees. We'll be using [light orange](https://github.com/sparcopen/open-research-doathon/issues?utf8=%E2%9C%93&q=is%3Aopen%20label%3Avirtual%20-label%3Ameta) labels for issues specific to remote attendance, and [light purple](https://github.com/sparcopen/open-research-doathon/issues?utf8=%E2%9C%93&q=is%3Aopen%20label%3Aon-site%20-label%3Ameta) for on-site issues. Note that people in the room are welcome to use the online features as well.
 
 Check out the [yellow labels](https://github.com/sparcopen/open-research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3Aidea%20-label%3Ameta) for hacky ideas to work on! Feel free to propose your own, even multiple ones: having more ideas may make it easier to find people to team up with. Conversely, feel free to have a go at any of these ideas, and let us &mdash; and their proposers &mdash; know how far you've come. There are [purple](https://github.com/sparcopen/open-research-doathon/issues?utf8=%E2%9C%93&q=is%3Aopen%20label%3Ainterests%20-label%3Ameta) labels for attendees to say what their interests and skills are, which is especially useful if they are not yet involved with one of the proposed ideas.
-
 To present the ideas and to inform about other topics of interest, we'll be having lightning talks, which can be tracked via the [red](https://github.com/sparcopen/open-research-doathon/issues?utf8=%E2%9C%93&q=is%3Aopen%20label%3Alightning-talks%20-label%3Ameta) labels.
 
 There are also [light green](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+is%3Aopen+label%3Ameta) labels that we're using to organize the event. Your participation is welcome here too.
@@ -53,9 +52,8 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 * Follow [#odd4r](https://twitter.com/search?f=tweets&vertical=default&q=((%22do-a-thon%22%20OR%20doathon)%20AND%20data)%20OR%20odd4r) and announce you'll be joining us!
 * Introduce yourself [here](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#heading=h.fz9shrgyu7o2) and read other's introductions.
 * Tell us what you're working on via Twitter & [Github issues](https://github.com/sparcopen/open-research-doathon/issues). 
-
-[![Project pitch for "R interface to anthropology database D-Place"](https://img.youtube.com/vi/UMR7N193uM8/0.jpg)](http://www.youtube.com/watch?v=T-UMR7N193uM8)
-* A remote project pitch for [issue 36: R interface to anthropology database D-Place](https://github.com/sparcopen/open-research-doathon/issues/36).
+* Here is a remote project pitch for [issue 36: R interface to anthropology database D-Place](https://github.com/sparcopen/open-research-doathon/issues/36).
+[![Project pitch for "R interface to anthropology database D-Place"](https://img.youtube.com/vi/UMR7N193uM8/0.jpg)](http://www.youtube.com/watch?v=UMR7N193uM8)
 
 # How to join on-site
 
