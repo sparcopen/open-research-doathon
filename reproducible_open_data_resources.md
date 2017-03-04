@@ -56,6 +56,12 @@ Try it out: https://nteract.io/
 https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5#.xm99tzjc4
 Try it out: http://airbnb.io/superset/installation.html
 
+## Your favourite tool here
+
+* Describe it succinctly
++ Any requirements / particular languages supported?
++ Useful links to start exploring the tool
+
 # Maintaining analysis scripts:
 Warning: codespeak alert. If you're new to this, ask!
 An essential part of ensuring your reproducible notebook persists is good dependency management. 
