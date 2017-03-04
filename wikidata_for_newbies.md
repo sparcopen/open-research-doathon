@@ -21,7 +21,10 @@ Link on website but broken links - needs more research
 Sort of - growing rapidly, please don't take this as gospel
 
 ###How is wikidata is used in wikipedia?
-What's the relationship - roughly two ways that things come into wikidata. 1) Wikipedia info boxes - these vary accordinng to the discipline. When they started they weren't systematic and a lot of effort has gone into rationalising this. Wikidata is used to update the info box, so edit Wikidata and that updates the info box 2) From 3rd party data sources. Historically 2-3 large dbs including Freebase. A lot of Wikipedia articles have a freebase identity. Freebase has now been taken over by Wikidata. Freebased came from Semantic web an idea of Tim Berner-Lee, which describes the world in triples e.g. Okapi (object) <is an> (property) animal (object). Can have a qualifiers e.g. Britain is part of Europe until xyz (times) or Theresa May says Britain is part of Europe (authority).
+What's the relationship - roughly two ways that things come into wikidata.
+
+1. Wikipedia info boxes - these vary accordinng to the discipline. When they started they weren't systematic and a lot of effort has gone into rationalising this. Wikidata is used to update the info box, so edit Wikidata and that updates the info box 
+1. From 3rd party data sources. Historically 2-3 large dbs including Freebase. A lot of Wikipedia articles have a freebase identity. Freebase has now been taken over by Wikidata. Freebased came from Semantic web an idea of Tim Berner-Lee, which describes the world in triples e.g. Okapi (object) ```<is an>``` (property) animal (object). Can have a qualifiers e.g. Britain is part of Europe until xyz (times) or Theresa May says Britain is part of Europe (authority).
 
 In Wikidata there are around 25million triples (object->property<-object).
 
