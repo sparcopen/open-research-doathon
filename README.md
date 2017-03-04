@@ -48,9 +48,16 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 
 # How to join remotely
 
+* Have a computer at hand.
+* Have ideas.
 * Follow #odd4r and announce you'll be joining us!
 * Introduce yourself [here](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#heading=h.fz9shrgyu7o2) and read other's introductions.
 * Tell us what you're working on via Twitter & Github issues. 
+
+# How to join on-site
+
+* Same as above.
+* Talk to people around you and online about the above.
 
 # Ideas for the Weekend
 
