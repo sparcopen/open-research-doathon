@@ -54,6 +54,9 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 * Introduce yourself [here](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#heading=h.fz9shrgyu7o2) and read other's introductions.
 * Tell us what you're working on via Twitter & [Github issues](https://github.com/sparcopen/open-research-doathon/issues). 
 
+[![Project pitch for "R interface to anthropology database D-Place"](https://img.youtube.com/vi/UMR7N193uM8/0.jpg)](http://www.youtube.com/watch?v=T-UMR7N193uM8)
+* A remote project pitch for [issue 36: R interface to anthropology database D-Place](https://github.com/sparcopen/open-research-doathon/issues/36).
+
 # How to join on-site
 
 * Same as above.
