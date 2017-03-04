@@ -50,9 +50,9 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 
 * Have a computer at hand.
 * Have ideas.
-* Follow #odd4r and announce you'll be joining us!
+* Follow [#odd4r](https://twitter.com/search?f=tweets&vertical=default&q=((%22do-a-thon%22%20OR%20doathon)%20AND%20data)%20OR%20odd4r) and announce you'll be joining us!
 * Introduce yourself [here](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#heading=h.fz9shrgyu7o2) and read other's introductions.
-* Tell us what you're working on via Twitter & Github issues. 
+* Tell us what you're working on via Twitter & [Github issues](https://github.com/sparcopen/open-research-doathon/issues). 
 
 # How to join on-site
 
