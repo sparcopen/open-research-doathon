@@ -11,9 +11,7 @@
 
 [Open Data Day](http://opendataday.org/) is an annual international celebration of [open data](https://en.wikipedia.org/wiki/Open_data). In 2017, it takes place on March 4, and on that occasion, [lots of events](http://opendataday.org/#map) are taking place around the world, focusing on specific kinds or aspects of open data. 
 
-Here is an introductory video on the topic:
-[![Open Data introductory video](https://img.youtube.com/vi/1GYMB8QdT60/0.jpg)](http://www.youtube.com/watch?v=1GYMB8QdT60)
-
+Here is [an introductory video on the topic](http://www.youtube.com/watch?v=1GYMB8QdT60).
 
 # Specifics
 
@@ -56,8 +54,7 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 * Follow [#odd4r](https://twitter.com/search?f=tweets&vertical=default&q=((%22do-a-thon%22%20OR%20doathon)%20AND%20data)%20OR%20odd4r) and announce you'll be joining us!
 * Introduce yourself [here](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#heading=h.fz9shrgyu7o2) and read other's introductions.
 * Tell us what you're working on via Twitter & [Github issues](https://github.com/sparcopen/open-research-doathon/issues). 
-* Here is a remote project pitch for [issue 36: R interface to anthropology database D-Place](https://github.com/sparcopen/open-research-doathon/issues/36).
-[![Project pitch for "R interface to anthropology database D-Place"](https://img.youtube.com/vi/UMR7N193uM8/0.jpg)](http://www.youtube.com/watch?v=UMR7N193uM8)
+* [Here is a remote project pitch](http://www.youtube.com/watch?v=UMR7N193uM8) for [issue 36: R interface to anthropology database D-Place](https://github.com/sparcopen/open-research-doathon/issues/36).
 
 # How to join on-site
 
