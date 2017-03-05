@@ -73,9 +73,13 @@ In a small (30-ish) group, this seems to be easily done with little to no hassle
 
 ## Introducing documentation & help mechanisms
 
+You don't want to cram too much information into your intro. Introducing things slowly helps people keep up and builds habits slowly.
+
 Around 30 minutes to an hour after team formation, start to introduce the idea that participants should document their progress & ask others to help on Github.
 
 Have regular document sprints (say, 1-2 min per hour). Keep them fun (e.g. change the soundscape for that documentation period). Try and get people to make or comment on issues, and of course tweet out.
+
+You'll need to speak to people 1:1 to see if they got this, and why they should do it. This will mean next time they're much more likely to do it!
 
 # Day two...
 
