@@ -32,7 +32,7 @@ There are also [light green](https://github.com/sparcopen/open-research-doathon/
 
 For guidelines on how to contribute to this project, see [CONTRIBUTING.md](https://github.com/sparcopen/open-research-doathon/blob/master/CONTRIBUTING.md).
 
-For a list of people who actually contributed, see [here](https://sparcopen.github.io/open-research-doathon/Let's%20Build%20a%20Hat%20Rack.html).
+For a list of people who actually contributed, see [here](https://josephmcarthur.github.io/do-a-thon_hatrack/Let's%20Build%20a%20Hat%20Rack.html).
 
 # Program
 
