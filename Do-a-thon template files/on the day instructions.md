@@ -1,9 +1,8 @@
-# How to start a do-a-thon
+# How to start a do-a-thon day
 
 This takes about a morning. However, the outcome is a well-fed group of people who're getting to work on projects and feel comfortable with each other.  
 
 ## Arrivals
-
 
 Set about an hour for people to filter in and chat over breakfast. Give people stick on name tags, in fact, give them many! To keep things visible at distance have a tag each for:
 
