@@ -19,7 +19,7 @@ Fork this repo, customise to your liking.
 
 ## Event page & ticketing
 
-We used a (simple event page)[https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203#] with a few key components:  
+We used a [simple event page](https://www.eventbrite.com/e/open-research-data-do-a-thon-in-london-virtual-tickets-31417371203#) with a few key components:  
 
 * A description of the do-a-thon concept, what can be done, and who should come
 
