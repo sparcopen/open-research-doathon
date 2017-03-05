@@ -56,7 +56,7 @@ Tweet each introduction into your hashtag.
 
 ## Take a break!
 
-Let folks take a break, and read the notes others took & think about ideas they'd like to pitch. This is also 
+Let folks take a break, and read the notes others took & think about ideas they'd like to pitch. This is also
 We'd suggest that this time can also be used for people to grab lunch.
 
 ## Pitching
@@ -76,3 +76,9 @@ In a small (30-ish) group, this seems to be easily done with little to no hassle
 Around 30 minutes to an hour after team formation, start to introduce the idea that participants should document their progress & ask others to help.
 
 Have regular document sprints (say, 1-2 min per hour). Keep them fun (e.g. change the soundscape for that documentation period).
+
+# Day two...
+
+On day two, you'll lose a few people and it'll be slow to start. That's okay, embrace the quiet to get things done! This is where all your hard work connecting people in day one will pay off.
+
+Continue to encourage documentation and collaboration throughout the day.
