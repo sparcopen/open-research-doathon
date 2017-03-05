@@ -10,4 +10,8 @@ It's also an event with a soundtrack: [listen.hatnote.com](http://listen.hatnote
 
 # Why do a do-a-thon?
 
-You're bored of listening to talks and other monologues, and think it's more important to use your time to engage with others and to work together on issues you care about. You want an event format that supports that and is easy to create. 
+You're bored of listening to talks and other monologues, and think it's more important to use your time to engage with others and to work together on issues you care about. You want an event format that supports that and is easy to create.
+
+# Who can do a do-a-thon
+
+Anyone! 
