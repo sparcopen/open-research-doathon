@@ -32,6 +32,8 @@ There are also [light green](https://github.com/sparcopen/open-research-doathon/
 
 For guidelines on how to contribute to this project, see [CONTRIBUTING.md](https://github.com/sparcopen/open-research-doathon/blob/master/CONTRIBUTING.md).
 
+For a list of people who actually contributed, see [here](https://sparcopen.github.io/open-research-doathon/Let's%20Build%20a%20Hat%20Rack.html).
+
 # Program
 
 Each day will run 9am - 6pm. We'll provide breakfast, lunch, and snacks (including coffee, of course) with informal dinner & drinks each evening. The program is designed to be lightweight and flexible to allow the maximum time for doing.
