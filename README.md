@@ -100,6 +100,10 @@ Lots of little data points, e.g. for [translucency](https://en.wikipedia.org/wik
 * There are a number of [other hashtags specific to opendataday or some related events](https://twitter.com/search?f=tweets&vertical=default&q=opendataday%20OR%20%22open%20data%20day%22%20OR%20((opendata%20OR%20openscience)%20AND%20(day%20OR%20today%20OR%20event))%20OR%20opendatahack%20OR%20brainhack%20OR%20scitog%20OR%20hack4ac)
 * There are the generic hashtags for [#opendata, #openresearch and #openscience](https://twitter.com/search?f=tweets&vertical=default&q=opendata%20OR%20openresearch%20OR%20openscience%20OR%20%22open%20data%22%20OR%20%22open%20research%22%20OR%20%22open%20science%22%20OR%20openscienceprize)
 
+# Follow-up
+
+* Issues that have been worked on over the weekend and that may be suitable for further such events have been tagged with the [postponed](https://github.com/sparcopen/open-research-doathon/issues?utf8=%E2%9C%93&q=label%3Apostponed%20) label.
+
 # Licensing
 
 * Contributions to the event are expected to be as openly licensed as possible, so as to encourage reuse. For details, see [LICENSE.md](https://github.com/sparcopen/open-research-doathon/blob/master/LICENSE.md).
