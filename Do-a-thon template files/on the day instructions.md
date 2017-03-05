@@ -1,15 +1,15 @@
 # How to start a do-a-thon
 
-This takes about a morning. However, the outcome is a well feed group of people who're getting to work on projects and feel comfortable with each other.  
+This takes about a morning. However, the outcome is a well-fed group of people who're getting to work on projects and feel comfortable with each other.  
 
 ## Arrivals
 
-Set about an hour for people to filter in, think about providing some simple breakfast. Give people name tags, in fact, give them many! To keep things visable at distance we had a tag each for:
+Set about an hour for people to filter in, think about providing some simple breakfast. Give people name tags, in fact, give them many! To keep things visable at distance, we had a tag each for:
 * First name
 * Contact (email / Twitter)
 * Some words to spark conversation (aka metadata)
 
-On Twitter, ask folks joining remote to say hello in your hashtag!
+On Twitter, ask folks joining remotely to say hello in your hashtag!
 
 ## Welcome
 
@@ -19,8 +19,8 @@ Spend as little time as possible talking at the start. Important things to touch
 * What's the possiblity: What can happen at the event if people work for it?
 * Logistics & house keeping
  * What's the program?
- * Where are the toilots, fire exits, wifi, food, etc.
- * Ask if folks don't want to be photographed
+ * Where are the toilets, fire exits, WiFi, food, etc.
+ * Ask whether folks don't want to be photographed
 
  You don't need slides for this, just use your repository.   
 
@@ -37,23 +37,23 @@ Spend as little time as possible talking at the start. Important things to touch
 
 Break people out into groups (anywhere from 5 - 8 works) to get to know one another & the topic. Suggested structure can include:
 
-* Have introductions people
+* Have introductions of people
   * What’s your name / Twitter
   * What have you come here to do?
   * What type of data are you interested in
-   * E.g biology data, MRI data, word frequency
+   * e.g. genomic data, MRI data, word frequency
   * I know a bit about...
- * What would you like to see happen today
+  * What would you like to see happen today
 * Introductions to the topic
- * Here just allow folks to discuss what's on their mind. Encourage new folks to speak up and ask the silly question.
+  * Here just allow folks to discuss what's on their mind. Encourage new folks to speak up and ask the silly question.
 
-For these sessions, use a Google doc (or similar) to take notes on introductions & questions. Later, these can be reviewed by everyone to get a deeper idea of who's in the room.
+For these sessions, use a Google doc (or similar) to take notes on introductions & questions. Later, these can be reviewed by everyone to get a deeper idea of who's attending in the room and online. Think about providing in-room references for people to indicate where they are (e.g. number the tables).
 
-Tweet each introdcution into your hashtag.
+Tweet each introduction into your hashtag.
 
 ## Take a break!
 
-Let folks take a break, and read the notes other tooks & think about ideas they'd like to pitch. This is also the perfect change to grab people who don't know github and show them how to make an issue.
+Let folks take a break, and read the notes others took & think about ideas they'd like to pitch. This is also the perfect chance to grab people who don't know GitHub and show them how to open an issue.
 
 We'd suggest that this time can also be used for people to grab lunch.
 
@@ -71,4 +71,6 @@ In a small (30 ish) group, this seems to be easily done with little to no hastle
 
 ## Introducing documentation & help mechanisms
 
-Around 30 minutes to an hour after team formation start to introduce the idea that participants should document their progress & ask others to help.
+Around 30 minutes to an hour after team formation, start to introduce the idea that participants should document their progress & ask others to help.
+
+Have regular document sprints (say, 1-2 min per hour). Keep them fun (e.g. change the soundscape for that documentation period).
