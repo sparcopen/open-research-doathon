@@ -12,7 +12,7 @@
 [Open Data Day](http://opendataday.org/) is an annual international celebration of [open data](https://en.wikipedia.org/wiki/Open_data). In 2017, it takes place on March 4, and on that occasion, [lots of events](http://opendataday.org/#map) are taking place around the world, focusing on specific kinds or aspects of open data. 
 
 Here is an introductory video on the topic:
-[![Open Data Day introductory video](https://img.youtube.com/vi/w32jJvbewkk/0.jpg)](http://www.youtube.com/watch?v=w32jJvbewkk)
+[![Open Data introductory video](https://img.youtube.com/vi/1GYMB8QdT60/0.jpg)](http://www.youtube.com/watch?v=1GYMB8QdT60)
 
 
 # Specifics
