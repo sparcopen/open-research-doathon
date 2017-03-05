@@ -1,3 +1,12 @@
+# How to start planning a do-a-thon 
+
+It should be lightweight:
+- define time, theme and location early on
+- let people know about the plans, e.g. by starting a hashtag, posting to mailing lists
+- collect ideas in a public place like this GitHub repo
+- document the plans in the repo as they get more concrete
+- be responsive if people from outside the organizing team get in touch or contribute
+
 # What do you need to prepare?
 
 ## Hashtag
