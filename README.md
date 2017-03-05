@@ -1,3 +1,9 @@
+# Update
+
+The event has ended, with its activities being documented in this repo itself, in the [issues](https://github.com/sparcopen/open-research-doathon/issues) and possibly elsewhere, which should be linked from the corresponding issue. We are working on [making this repo more reusable](https://github.com/sparcopen/open-research-doathon/issues/47) in case you would like to organize similar events in the future.
+
+---
+
 [![Sonar tracking of tungsten ball underneath research vessel for calibration](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_%2816824332958%29.jpg)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg)
 
 # In brief
