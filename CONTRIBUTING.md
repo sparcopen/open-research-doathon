@@ -1,16 +1,4 @@
-# Request for contributions
-
-Please contribute to this repository if any of the following is true:
-- You have expertise in community development, communication, or education
-- You want open research communities to be more collaborative and inclusive
-- You want to help lower the burden to first time contributors
-
 # How to contribute
-
-Prerequisites:
-
-- Familiarity with [pull requests](https://help.github.com/articles/using-pull-requests) and [issues](https://guides.github.com/features/issues/).
-- Knowledge of [Markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents.
 
 In particular, this community seeks the following types of contributions:
 
@@ -62,18 +50,3 @@ making this community a safe place for you and we've got your back.
 
 Likewise any spamming, trolling, flaming, baiting or other attention-stealing
 behaviour is not welcome.
-
-# Communication
-
-[GitHub issues](https://github.com/sparcopen/open-research-doathon/issues) are the primary way for communicating about specific aspects of this project.
-
-Besides GitHub, we will be using the Twitter hashtag [#odd4r](https://twitter.com/search?vertical=default&q=odd4r). 
-
-In both contexts, you're welcome to drop in and ask questions, discuss bugs and such. 
-We expect you to follow the conduct guidelines above. Language issues
-are often contentious and we'd like to keep discussion brief, civil and focused
-on what we're actually doing, not wandering off into too much imaginary stuff.
-
-# Frequently Asked Questions
-
-*please add*
