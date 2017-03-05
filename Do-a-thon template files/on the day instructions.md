@@ -4,11 +4,9 @@ This takes about a morning. However, the outcome is a well-fed group of people w
 
 ## Arrivals
 
-<<<<<<< HEAD
+
 Set about an hour for people to filter in and chat over breakfast. Give people stick on name tags, in fact, give them many! To keep things visible at distance have a tag each for:
-=======
-Set about an hour for people to filter in, think about providing some simple breakfast. Give people name tags, in fact, give them many! To keep things visable at distance, we had a tag each for:
->>>>>>> origin/master
+
 * First name
 * Contact (email / Twitter)
 * Some words to spark conversation (aka metadata)
@@ -25,13 +23,8 @@ Spend as little time as possible talking at the start. Important things to touch
 * What's the possibility: What can happen at the event if people work for it?
 * Logistics & house keeping
  * What's the program?
-<<<<<<< HEAD
- * Where are the toilets, fire exits, wifi, food, etc.
- * Ask if folks don't want to be photographed
-=======
  * Where are the toilets, fire exits, WiFi, food, etc.
  * Ask whether folks don't want to be photographed
->>>>>>> origin/master
 
  You don't need slides for this, just use your repository.   
 
@@ -64,12 +57,7 @@ Tweet each introduction into your hashtag.
 
 ## Take a break!
 
-<<<<<<< HEAD
-Let folks take a break, and read the intro notes other issue & think about ideas they'd like to pitch. This is also the perfect change to grab people who don't know github and show them how to make an issue.
-=======
-Let folks take a break, and read the notes others took & think about ideas they'd like to pitch. This is also the perfect chance to grab people who don't know GitHub and show them how to open an issue.
->>>>>>> origin/master
-
+Let folks take a break, and read the notes others took & think about ideas they'd like to pitch. This is also 
 We'd suggest that this time can also be used for people to grab lunch.
 
 ## Pitching
