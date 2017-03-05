@@ -4,22 +4,24 @@ This takes about a morning. However, the outcome is a well feed group of people 
 
 ## Arrivals
 
-Set about an hour for people to filter in, think about providing some simple breakfast. Give people name tags, in fact, give them many! To keep things visable at distance we had a tag each for:
+Set about an hour for people to filter in and chat over breakfast. Give people stick on name tags, in fact, give them many! To keep things visible at distance have a tag each for:
 * First name
 * Contact (email / Twitter)
 * Some words to spark conversation (aka metadata)
 
 On Twitter, ask folks joining remote to say hello in your hashtag!
 
+Try and get folks on the wifi asap, one just one device. To save yourself crashing the internet tell them to stop using their usual syncing tools (dropbox, drive etc). They don't need it, and that's what causes most problems.
+
 ## Welcome
 
 Spend as little time as possible talking at the start. Important things to touch on are:
 
 * Context: At the highest level, why is the topic you're working on important?
-* What's the possiblity: What can happen at the event if people work for it?
+* What's the possibility: What can happen at the event if people work for it?
 * Logistics & house keeping
  * What's the program?
- * Where are the toilots, fire exits, wifi, food, etc.
+ * Where are the toilets, fire exits, wifi, food, etc.
  * Ask if folks don't want to be photographed
 
  You don't need slides for this, just use your repository.   
@@ -30,7 +32,7 @@ Spend as little time as possible talking at the start. Important things to touch
   * how many of you have not been to a hack / do-a-thon before?
   * how many of you come from outside of XYZ?
   * how many of you have made open data before?
-  * how many of you are dependant on open data?
+  * how many of you are dependent on open data?
   * who doesn't know anyone?
 
 ## Getting to know each other & the topic
@@ -49,11 +51,11 @@ Break people out into groups (anywhere from 5 - 8 works) to get to know one anot
 
 For these sessions, use a Google doc (or similar) to take notes on introductions & questions. Later, these can be reviewed by everyone to get a deeper idea of who's in the room.
 
-Tweet each introdcution into your hashtag.
+Tweet each introduction into your hashtag.
 
 ## Take a break!
 
-Let folks take a break, and read the notes other tooks & think about ideas they'd like to pitch. This is also the perfect change to grab people who don't know github and show them how to make an issue.
+Let folks take a break, and read the intro notes other issue & think about ideas they'd like to pitch. This is also the perfect change to grab people who don't know github and show them how to make an issue.
 
 We'd suggest that this time can also be used for people to grab lunch.
 
@@ -67,7 +69,7 @@ Remote participants can pitch live on Google hangouts, or, via a recorded video 
 
 ## Team formation
 
-In a small (30 ish) group, this seems to be easily done with little to no hastle. Folks can just shout out, or, co-ordinate via issues (preferable for remote folks).
+In a small (30-ish) group, this seems to be easily done with little to no hassle. Folks can just shout out, or, co-ordinate via issues (preferable for remote folks).
 
 ## Introducing documentation & help mechanisms
 
