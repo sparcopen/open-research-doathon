@@ -11,11 +11,12 @@ It should be lightweight:
 
 ## Hashtag
 
-Chose one, keep it short and sweet. Then, use it!
+* Chose one, keep it short and sweet. Then, use it!
+* Consider setting up a hashtag tracker
 
 ## Github
 
-Fork this repo, customise to your liking.
+* Fork this repo, customise to your liking.
 
 ## Event page & ticketing
 
