@@ -67,6 +67,7 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 # How to join on-site
 
 * Same as above.
+* [Here is an in-the-room pitch](https://twitter.com/OKFN/status/838011416598700033) for [issue 35:  Newbies guide to Wikidata](https://github.com/sparcopen/open-research-doathon/issues/35).
 * Talk to people around you and online about the above.
 
 # Ideas for the Weekend
