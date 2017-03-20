@@ -2,6 +2,8 @@
 
 The event has ended, with its activities being documented in this repo itself, in the [issues](https://github.com/sparcopen/open-research-doathon/issues) and possibly elsewhere, which should be linked from the corresponding issue. We are working on [making this repo more reusable](https://github.com/sparcopen/open-research-doathon/issues/47) in case you would like to organize similar events in the future.
 
+Many of the ideas and projects worked on at the meeting still need work! You can find those [here](https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+label%3Apostponed+is%3Aclosed). If you want to take something forwards, re-open the issue!
+
 ---
 
 [![Sonar tracking of tungsten ball underneath research vessel for calibration](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_%2816824332958%29.jpg)](https://commons.wikimedia.org/wiki/File:Sonar_tracking_of_tungsten_ball_underneath_research_vessel_for_calibration_(16824332958).jpg)
@@ -15,7 +17,7 @@ The event has ended, with its activities being documented in this repo itself, i
 
 # Background
 
-[Open Data Day](http://opendataday.org/) is an annual international celebration of [open data](https://en.wikipedia.org/wiki/Open_data). In 2017, it takes place on March 4, and on that occasion, [lots of events](http://opendataday.org/#map) are taking place around the world, focusing on specific kinds or aspects of open data. 
+[Open Data Day](http://opendataday.org/) is an annual international celebration of [open data](https://en.wikipedia.org/wiki/Open_data). In 2017, it takes place on March 4, and on that occasion, [lots of events](http://opendataday.org/#map) are taking place around the world, focusing on specific kinds or aspects of open data.
 
 Here is [an introductory video on the topic](http://www.youtube.com/watch?v=1GYMB8QdT60).
 
@@ -61,7 +63,7 @@ Virtual participants are encouraged to peak in on our activities any time, but w
 * Have ideas.
 * Follow [#odd4r](https://twitter.com/search?f=tweets&vertical=default&q=((%22do-a-thon%22%20OR%20doathon)%20AND%20data)%20OR%20odd4r) and announce you'll be joining us!
 * Introduce yourself [here](https://docs.google.com/document/d/1gTdPPr0ZMCKv5X-_XL9au6buwV6Fz194djjw3YXSFvs/edit#heading=h.fz9shrgyu7o2) and read other's introductions.
-* Tell us what you're working on via Twitter & [Github issues](https://github.com/sparcopen/open-research-doathon/issues). 
+* Tell us what you're working on via Twitter & [Github issues](https://github.com/sparcopen/open-research-doathon/issues).
 * [Here is a remote project pitch](http://www.youtube.com/watch?v=UMR7N193uM8) for [issue 36: R interface to anthropology database D-Place](https://github.com/sparcopen/open-research-doathon/issues/36).
 
 # How to join on-site
