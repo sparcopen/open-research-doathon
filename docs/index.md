@@ -8,8 +8,8 @@ This is a website we didn't actually use for the event but I'm experimenting aft
 
 <button><a href="https://github.com/sparcopen/open-research-doathon/issues/new">Share what you need help with</a></button>
 
-Made a lot of issues? Perhaps add a project
-<button><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNRsuxNpjOzOo6f_j2BcDmG33kwcJ-NLubfouChl4CBf0Gsw/viewform"></a></button>
+Made a lot of issues? 
+<button><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNRsuxNpjOzOo6f_j2BcDmG33kwcJ-NLubfouChl4CBf0Gsw/viewform">Perhaps add a project</a></button>
 
 You'll need to sign in before you write what you need, but no worries, it's free & fast and there are instructions all the way until you're done. Once you've made your note there, any update there will be emailed to you (cool, right!?). Oh, and don't worry if you get it wrong first time. You can edit anything and our staff will give you a hand.
 
