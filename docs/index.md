@@ -4,7 +4,7 @@ This is a website we didn't actually use for the event but I'm experimenting aft
 
 # OpenCon Doathon
 
-# Get Involved
+## Get Involved
 
 <button><a href="https://github.com/sparcopen/open-research-doathon/issues/new">Get help</a></button>
 
