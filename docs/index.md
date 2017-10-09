@@ -14,13 +14,20 @@ Made a lot of issues?
 You'll need to sign in before you write what you need, but no worries, it's free & fast and there are instructions all the way until you're done. Once you've made your note there, any update there will be emailed to you (cool, right!?). Oh, and don't worry if you get it wrong first time. You can edit anything and our staff will give you a hand.
 
 Find a project or action you'll like
-<ul>
-<li><a href = "https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3Alightning-talks">like this</a></li>
-<li><a href = "https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3Ameta">or this</a></li>
-</ul>
 
-or, we can have a page on the website that looks like this: https://whatcanidoforopenaccess.org/#!/progornoprog/advocate and use that to navigate people to something fun for them (again, just lists on Github).
-
+<table width=100%>
+ <thead>
+ <th><b>Action</b></th>
+ <th><b>Project Link</b></th>
+ </thead>
+ <tbody sheetsu="https://sheetsu.com/apis/v1.0/566ee981af4c" sheetsu-limit="20" sheetsu-ignore-case="true">
+ <tr>
+ <td><a href="{{github}}">{{text}}</a></td>
+ <td>{{project}}</td>
+ </tr>
+ </tbody>
+</table> 
+<script src="//load.sheetsu.com"></script>
 If you contribute, we'll put your face on something like this: https://josephmcarthur.github.io/do-a-thon_hatrack/Let's%20Build%20a%20Hat%20Rack.html and people will be able to see the awesome things you do! Isn't that swell?
 
 # Update
