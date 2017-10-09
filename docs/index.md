@@ -27,7 +27,9 @@ Find a project or action you'll like
  </tr>
  </tbody>
 </table> 
-<script src="//load.sheetsu.com"></script>
+
+<script src="https://load.sheetsu.com"></script>
+
 If you contribute, we'll put your face on something like this: https://josephmcarthur.github.io/do-a-thon_hatrack/Let's%20Build%20a%20Hat%20Rack.html and people will be able to see the awesome things you do! Isn't that swell?
 
 # Update
