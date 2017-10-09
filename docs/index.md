@@ -13,7 +13,9 @@ Made a lot of issues?
 
 You'll need to sign in before you write what you need, but no worries, it's free & fast and there are instructions all the way until you're done. Once you've made your note there, any update there will be emailed to you (cool, right!?). Oh, and don't worry if you get it wrong first time. You can edit anything and our staff will give you a hand.
 
-Find a project or action you'll like: https://sparcopen.github.io/open-research-doathon/get-involved.html. There you can search out the types of things you'd like to do as lorraine suggests  without looking at the scary issues page or us coding up something really complex.
+### [Find a project or action you'll like](https://sparcopen.github.io/open-research-doathon/get-involved.html). 
+
+^ There you can search out the types of things you'd like to do as lorraine suggests  without looking at the scary issues page or us coding up something really complex.
 
 If you contribute, we'll put your face on something like this: https://josephmcarthur.github.io/do-a-thon_hatrack/Let's%20Build%20a%20Hat%20Rack.html and people will be able to see the awesome things you do! Isn't that swell?
 
