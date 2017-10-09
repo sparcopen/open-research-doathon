@@ -1,6 +1,18 @@
 # Hello World!
 
-This is a website we didn't actually use for the event but I'm experimenting after the fact! 
+This is a website we didn't actually use for the event but I'm experimenting after the fact!
+
+# OpenCon Doathon
+
+# Get Involved
+
+<button><a href="https://github.com/sparcopen/open-research-doathon/issues/new">Get help</a></button>
+
+Find a project you'll like
+<ul>
+<li><a href = "https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3Alightning-talks">like this</a></li>
+<li><a href = "https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3Ameta">or this</a></li>
+</ul>
 
 # Update
 
