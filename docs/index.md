@@ -14,9 +14,9 @@ Find a project or action you'll like
 <ul>
 <li><a href = "https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3Alightning-talks">like this</a></li>
 <li><a href = "https://github.com/sparcopen/open-research-doathon/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3Ameta">or this</a></li>
+</ul>
 
 or, we can have a page on the website that looks like this: https://whatcanidoforopenaccess.org/#!/progornoprog/advocate and use that to navigate people to something fun for them (again, just lists on Github).
-</ul>
 
 If you contribute, we'll put your face on something like this: https://josephmcarthur.github.io/do-a-thon_hatrack/Let's%20Build%20a%20Hat%20Rack.html and people will be able to see the awesome things you do! Isn't that swell?
 
