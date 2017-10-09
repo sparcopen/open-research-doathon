@@ -30,7 +30,7 @@
   
   <script type="text/javascript">
                   var myFunc = debounce(function () {
-                    textValue = contryValue();
+                    textValue = textValue();
                     addSearchValue({ text: "*" + textValue + "*" });
                     resetTableBody();
                     triggerNewSearch();
