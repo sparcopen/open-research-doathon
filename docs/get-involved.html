@@ -8,6 +8,9 @@
   
   <body>
 
+    <input type="text" class="form-control" id="text" placeholder="Search Anything" value="" onkeydown="myFunc()">
+
+    
 <table width=100%>
  <thead>
  <th><b>Action</b></th>
@@ -23,4 +26,62 @@
 <script src="//load.sheetsu.com"></script>
 
 </body>
+  
+  
+  <script type="text/javascript">
+                  var myFunc = debounce(function () {
+                    textValue = contryValue();
+                    addSearchValue({ text: "*" + textValue + "*" });
+                    resetTableBody();
+                    triggerNewSearch();
+
+                  }, 400);
+
+
+                  function textValue() {
+                    return document.getElementById("text").value;
+                  }
+
+                  function tableElement() {
+                    return document.querySelector("tbody[sheetsu]");
+                  }
+
+                  function resetTableBody() {
+                    document.querySelector("tbody[sheetsu]").innerHTML = tableRow();
+                  }
+
+                  function addSearchValue(searchValue) {
+                    tableElement().setAttribute("sheetsu-search", JSON.stringify(searchValue));
+                  }
+
+                  function triggerNewSearch() {
+                    var element = document.querySelector("tbody[sheetsu]");
+                    (new ChangeGetElement(element)).call();
+                  }
+
+                  function tableRow() {
+                    return '<tr><td><a href="{{github}}">{{text}}</a></td><td>{{project}}</td></tr>';
+                  }
+
+                  function debounce(func, wait, immediate) {
+                    var timeout;
+                    return function() {
+                      var context = this, args = arguments;
+                      var later = function() {
+                        timeout = null;
+                        if (!immediate) func.apply(context, args);
+                      };
+                      var callNow = immediate && !timeout;
+                      clearTimeout(timeout);
+                      timeout = setTimeout(later, wait);
+                      if (callNow) func.apply(context, args);
+                    };
+                  };
+
+                </script>
+  
+  
+  
+  
+  
 </html>
