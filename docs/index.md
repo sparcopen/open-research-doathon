@@ -6,9 +6,9 @@ This is a website we didn't actually use for the event but I'm experimenting aft
 
 ## Get Involved
 
-<button><a href="https://github.com/sparcopen/open-research-doathon/issues/new">Get help</a></button>
+<button><a href="https://github.com/sparcopen/open-research-doathon/issues/new">Share what you need help with</a></button>
 
-You might need to sign in before you can look at that page, but no worries, it's free & fast and there are instructions all the way until you're done. Once you've made your note there, any update there will be emailed to you (cool, right!?). Oh, and don't worry if you get it wrong first time. You can edit anything and our staff will give you a hand.
+You'll need to sign in before you write what you need, but no worries, it's free & fast and there are instructions all the way until you're done. Once you've made your note there, any update there will be emailed to you (cool, right!?). Oh, and don't worry if you get it wrong first time. You can edit anything and our staff will give you a hand.
 
 Find a project or action you'll like
 <ul>
